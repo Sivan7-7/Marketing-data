@@ -27,3 +27,12 @@ This project derives business insights from the marketing dataset to make sugges
 
 ### Data flow
 ![image](https://user-images.githubusercontent.com/100988537/161290085-ae2fc6c5-9fc9-4444-a60c-0f000753d0ad.png)
+
+
+### Customer segmentation dashboard
+![image](https://user-images.githubusercontent.com/100988537/161313785-027e62c6-55fc-40af-a68c-eef883f20675.png)
+
+
+### Complaint prediction 
+![image](https://user-images.githubusercontent.com/100988537/161313522-880083fc-13d0-4566-9c17-ae0dd972db7c.png)
+
