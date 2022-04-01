@@ -13,13 +13,13 @@ This project derives business insights from the marketing dataset to make sugges
 • Machine learning and deep learning system  
 
 ### Prerequisite
-• Sklearn  
-• Matplotlib  
-• Seaborn  
-• Numpy  
-• Pandas  
-• Imbalanced-learn  
-• TensorFlow
+• Sklearn -- 1.0.2
+• Matplotlib -- 3.4.3
+• Seaborn -- 0.11.2
+• Numpy -- 1.20.3
+• Pandas --1.3.4
+• Imbalanced-learn -- 0.9.0  
+• TensorFlow -- 2.0.0
 
 ### Project structure
 ![image](https://user-images.githubusercontent.com/100988537/161290042-b74aa5c0-e3f5-4c8d-8743-73082a4de960.png)
